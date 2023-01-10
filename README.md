@@ -1,4 +1,4 @@
-# Java_Swing_Project
+# Java_Swing_Project(ClassDiagram)
 ![image](https://user-images.githubusercontent.com/114078953/211555256-f3d49097-257e-4594-9886-b4b7aebaf831.png)
 ![image](https://user-images.githubusercontent.com/114078953/211555308-7efd2570-8eaf-410a-85cd-945d66eb49ac.png)
 ![image](https://user-images.githubusercontent.com/114078953/211555320-41d5d921-036f-479c-8d36-a7b1a5f92f26.png)
